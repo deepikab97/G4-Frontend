@@ -1,0 +1,29 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+
+
+# Maven
+
+target/
+
+.metadata
+
+target
+bin/
+
+.settings
+
+.scannerwork
+
+.classpath
+
+.project
+
+.factorypath
+
+.mvn
+
+application.log

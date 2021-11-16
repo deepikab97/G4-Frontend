@@ -1,0 +1,5 @@
+projectKey=major-proj-g4
+serverUrl=http://172.27.12.78
+dashboardUrl=http://172.27.12.78/dashboard/index/major-proj-g4
+ceTaskId=AXanarOwirXW5IlAPW7w
+ceTaskUrl=http://172.27.12.78/api/ce/task?id=AXanarOwirXW5IlAPW7w
